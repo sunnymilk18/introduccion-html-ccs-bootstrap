@@ -1,0 +1,27 @@
+body {
+    background-color: rgba(80, 203, 255, 0.3);
+}
+
+.container {
+    text-align: center;
+    margin-top: 20% ;
+    padding: 1%;
+    background-color: rgb(235, 123, 255, 50%);
+}
+
+#user {
+    color: rgb(0, 64, 255);
+}
+
+#password {
+    color: rgb(0, 64, 255);
+}
+
+#email {
+    color: rgb(255, 0, 0);
+}
+
+#checkemail {
+    color: rgb(255, 0, 0);
+}
+
